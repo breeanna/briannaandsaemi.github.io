@@ -1,0 +1,55 @@
+body {
+
+  background-color: #FFFFFF;
+
+font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+font-size: 14.5px;
+line-height: 1.65;
+text-rendering: optimizeLegibility;
+font-smoothing: antialiased;
+text-align: center;
+}
+
+/*gen styles*/
+a {
+	font-size: 16px;
+	color: #000;
+}
+a:link {
+	text-decoration: none;
+	color: #000;
+}
+a:visited {
+	text-decoration: none;
+	color: #FF760E;
+}
+a:hover {
+	text-decoration: none;
+	color: #1EC93B;
+}
+
+a.active {
+	text-decoration: none;
+
+}
+
+h1 {
+	font-size: 16px;
+font-family: Times New Roman, Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", serif;
+	font-style: italic;
+}
+
+h2 {
+	font-size: 16px;
+font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+img {
+
+  width: 300px;
+}
+
+div.main {
+	width: 590px;
+	margin: auto;
+}
