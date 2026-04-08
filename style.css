@@ -26,28 +26,8 @@ a:hover {
 	color: #1EC93B;
 }
 
-a.active {
-	text-decoration: none;
-
-}
-
-h1 {
-	font-size: 16px;
-font-family: Times New Roman, Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", serif;
-	font-style: italic;
-}
-
-h2 {
-	font-size: 16px;
-font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
 
 img {
 
   width: 200px;
-}
-
-div.main {
-	width: 590px;
-	margin: auto;
 }
