@@ -10,14 +10,17 @@ text-align: center;
 
 /*gen styles*/
 a {
+	text-decoration: none;
 	color: #000;
 }
 
 a:link {
+	text-decoration: none;
 	color: #000;
 }
 
 a:hover {
+	text-decoration: none;
 	color: #1EC93B;
 }
 
