@@ -10,16 +10,13 @@ text-align: center;
 
 /*gen styles*/
 a {
-	font-size: 16px;
 	color: #000;
 }
+
 a:link {
 	text-decoration: none;
 	color: #000;
 }
-a:visited {
-	text-decoration: none;
-	color: #FF760E;
 }
 a:hover {
 	text-decoration: none;
