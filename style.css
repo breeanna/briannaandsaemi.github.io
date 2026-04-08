@@ -1,6 +1,6 @@
 body {
 
-font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+font-family: baskerville, times, serif;
 font-size: 14.5px;
 line-height: 1.65;
 text-rendering: optimizeLegibility;
@@ -14,12 +14,10 @@ a {
 }
 
 a:link {
-	text-decoration: none;
 	color: #000;
 }
-}
+
 a:hover {
-	text-decoration: none;
 	color: #1EC93B;
 }
 
