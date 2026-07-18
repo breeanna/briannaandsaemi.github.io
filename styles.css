@@ -28,3 +28,14 @@ img {
 
   width: 300px;
 }
+
+
+.faq	{
+
+  justify-content: center;
+margin: auto;
+width: 60%;
+Max-width: 600px;
+text-align: left;
+
+}
